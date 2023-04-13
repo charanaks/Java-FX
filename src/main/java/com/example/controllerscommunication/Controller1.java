@@ -15,6 +15,7 @@ public class Controller1 {
     @FXML
     TextField nameTextField;
     //Dummy comment
+    //Dummy comment 2
     private Stage stage;
     private Parent root;
     private Scene scene;
